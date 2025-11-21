@@ -45,27 +45,18 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://twitter.com/parzerp"
+                href="https://www.instagram.com/"
               >
-                x.com
+                instagram
               </Link>
             </li>
+            
             <li>
               <Link
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://bsky.app/profile/philparzer.com"
-              >
-                Bluesky
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="transition-opacity opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://linkedin.com/in/philipp-parzer"
+                href="https://www.linkedin.com/in/ankur-das07/"
               >
                 LinkedIn
               </Link>
@@ -76,7 +67,7 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/philparzer"
+                href="https://github.com/oBLAZEo"
               >
                 GitHub
               </Link>
@@ -86,21 +77,12 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://discord.com/users/philguin"
+                href="https://discord.com/users/ankur_8"
               >
                 Discord
               </Link>
             </li>
-            <li>
-              <Link
-                className="transition-opacity opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://twitch.tv/philguin"
-              >
-                Twitch
-              </Link>
-            </li>
+            
            
           </ul>
         </div>
@@ -112,7 +94,7 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://adler.studio"
+                href="https://github.com/oBLAZEo/Todo_Commercial\"
               >
                 <div className="w-[20px] h-[20px] flex items-center justify-center">
                   <Image
@@ -123,7 +105,7 @@ const Footer = ({}: FooterProps) => {
                     height={19}
                   ></Image>
                 </div>
-                adler.studio
+                commercial
               </Link>
             </li>
             <li>
@@ -131,7 +113,7 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://0cred.com"
+                href="https://6medics.netlify.app/"
               >
                 <div className="w-[20px] h-[20px] flex items-center justify-center">
                   <Image
@@ -141,7 +123,7 @@ const Footer = ({}: FooterProps) => {
                     height={20}
                   ></Image>
                 </div>
-                0cred
+                6-medics
               </Link>
             </li>
             <li>
@@ -149,7 +131,7 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://thesentproject.com"
+                href="https://github.com/oBLAZEo/Message_App"
               >
                 <div className="w-[20px] h-[20px] flex items-center justify-center">
                   <Image
@@ -160,47 +142,16 @@ const Footer = ({}: FooterProps) => {
                     height={19}
                   ></Image>
                 </div>
-                thesentproject
+                messageApp
               </Link>
             </li>
+            
             <li>
               <Link
                 className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://undeaddomains.com"
-              >
-                <Image
-                  alt="undead domains"
-                  src="/logos/undead.png"
-                  width={20}
-                  height={20}
-                ></Image>
-                undead domains
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://buoy-productivity.com"
-              >
-                <Image
-                  alt="buoy"
-                  src="/logos/buoy.webp"
-                  width={20}
-                  height={20}
-                ></Image>
-                buoy
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://mypoca.com"
+                href="https://github.com/oBLAZEo/AI-Mentor_SBH-2024"
               >
                 <div className="w-[20px] h-[20px] flex items-center justify-center">
                   <Image
@@ -211,7 +162,7 @@ const Footer = ({}: FooterProps) => {
                     height={18}
                   ></Image>
                 </div>
-                poca
+                aimentor
               </Link>
             </li>
             <li>
@@ -219,7 +170,7 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://jotlog.app"
+                href="#"
               >
                 <div className="w-[20px] h-[20px] flex items-center justify-center">
                   <Image
@@ -229,7 +180,7 @@ const Footer = ({}: FooterProps) => {
                     height={16}
                   ></Image>
                 </div>
-                jotlog
+                todoList
               </Link>
             </li>
 
@@ -246,7 +197,7 @@ const Footer = ({}: FooterProps) => {
                   width={20}
                   height={20}
                 ></Image>
-                ampass
+                photon
               </Link>
             </li>
           </ul>
@@ -258,16 +209,16 @@ const Footer = ({}: FooterProps) => {
             <div className=" font-light mt-2">
               <Link
                 className="opacity-50 transition-opacity hover:opacity-100"
-                href="mailto:parzerphilipp@gmail.com"
+                href="mailto:officially.ankur@gmail.com"
               >
-                parzerphilipp@gmail.com
+                officially.ankur@gmail.com
               </Link>
               <p>
                 <Link
                   className="opacity-50 transition-opacity hover:opacity-100"
-                  href="tel:+436605439322"
+                  href="tel:+9836127628"
                 >
-                  +436605439322
+                  +9836127628
                 </Link>
               </p>
               <div
@@ -275,8 +226,8 @@ const Footer = ({}: FooterProps) => {
                 className="opacity-50"
                 
               >
-                <p className="mt-2">Seitenstettengasse 5/37</p>
-                <p>1010, Vienna, Austria</p>
+                <p className="mt-2">117R,D.H.Road</p>
+                <p>Kolkata, West Bengal,700008</p>
               </div>
             </div>
           </div>
@@ -293,7 +244,7 @@ const Footer = ({}: FooterProps) => {
             this site is{" "}
             <Link
               className="underline decoration-2 text-whiteout/75 hover:text-whiteout/100"
-              href="https://github.com/philparzer/website-v3"
+              href="https://github.com/oBLAZEo/Portfolio"
             >
               open source
             </Link>
@@ -334,16 +285,16 @@ const Footer = ({}: FooterProps) => {
           </div>
           <div className="flex justify-between flex-wrap items-baseline text-center md:text-start">
             <p className="text-whiteout/50 md:w-auto w-full">
-              if you have questions or inquiries,{" "}
+              if you have questions or inquiries,{""}
               <Link
-                href="mailto:hi@adlerlagune.com"
+                href="mailto:officially.ankur@gmail.com"
                 className="underline decoration-2 text-whiteout/75 hover:text-whiteout/100"
               >
                 reach out
               </Link>
             </p>
             <p className="text-xs opacity-50 text-center w-full mt-10 md:mt-0 md:w-auto">
-              last update: SPRING2025
+              last update: August2025
             </p>
           </div>
         </div>

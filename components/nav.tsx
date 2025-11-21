@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Popover, PopoverContent, PopoverTrigger } from "./ui/popover";
-import TwitchBanner from "./twitch-banner";
 import { Suspense } from "react";
 
 const Nav = () => {
@@ -46,37 +45,31 @@ const Nav = () => {
           alt="spinning head animation"
         />
       </Link>
-      {/* <Suspense fallback={null}>
-        <TwitchBanner />
-      </Suspense> */}
+      {/* Popover dialogbox */}
       <Popover>
         <PopoverTrigger
           className={`pointer-events-auto underline underline-offset-[3px] opacity-100  decoration-[1.5px] decoration-blackout/50 dark:decoration-whiteout/50 md:mr-10 font-medium`}
         >
-          contact
+          connect
         </PopoverTrigger>
         <PopoverContent>
           <ul className="flex pointer-events-auto font-medium flex-col gap-4 font-base">
             <li>
-              <Link href="mailto:parzerphilipp@gmail.com">email</Link>
+              <Link href="officialankur@gmail.com">email</Link>
             </li>
             <li>
-              <Link href="tel:+436605439322">phone</Link>
+              <Link href="tel:+9836127628">phone</Link>
             </li>
             <li>
-              <Link href="https://linkedin.com/in/philipp-parzer">
+              <Link href="linkedin.com/in/ankur-das07">
                 linkedin
               </Link>
             </li>
+            
             <li>
-              <Link href="https://x.com/parzerp">x.com</Link>
+              <Link href="https://www.instagram.com/">instagram</Link>
             </li>
-            <li>
-              <Link href="https://twitch.com/philguin">twitch</Link>
-            </li>
-            <li>
-              <Link href="https://bsky.app/profile/philparzer.com">bluesky</Link>
-            </li>
+            
           </ul>
         </PopoverContent>
       </Popover>

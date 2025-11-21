@@ -9,7 +9,7 @@ import { Analytics } from "@vercel/analytics/react"
 import ogImage from "./opengraph-image.png";
 
 export const metadata: Metadata = {
-  title: "Philipp Parzer",
+  title: "Ankur",
   description: "design engineering, and comms",
   metadataBase: new URL(`https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`),
   openGraph: {
