@@ -241,15 +241,9 @@ const Footer = ({}: FooterProps) => {
 
         <div className="col-span-4 md:mt-10 text-sm text-center md:text-start">
           <div className="text-whiteout/50">
-            this site is{" "}
-            <Link
-              className="underline decoration-2 text-whiteout/75 hover:text-whiteout/100"
-              href="https://github.com/oBLAZEo/Portfolio"
-            >
-              open source
-            </Link>
+            
             <p>
-              built with some of my favorite tools &mdash;{" "}
+              The site is built using &mdash;{" "}
               <Link
                 className="underline decoration-2 text-whiteout/75 hover:text-whiteout/100"
                 href="https://nextjs.org"
@@ -284,15 +278,7 @@ const Footer = ({}: FooterProps) => {
             </p>
           </div>
           <div className="flex justify-between flex-wrap items-baseline text-center md:text-start">
-            <p className="text-whiteout/50 md:w-auto w-full">
-              if you have questions or inquiries,{""}
-              <Link
-                href="mailto:officially.ankur@gmail.com"
-                className="underline decoration-2 text-whiteout/75 hover:text-whiteout/100"
-              >
-                reach out
-              </Link>
-            </p>
+            
             <p className="text-xs opacity-50 text-center w-full mt-10 md:mt-0 md:w-auto">
               last update: August2025
             </p>
